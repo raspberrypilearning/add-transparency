@@ -13,7 +13,7 @@ line_numbers: false
 
 --- /code ---
 
-**Tip:** Adjust the `opacity` value for the `transparent` class in `style.css`: 0 is completely transparent and 1 is not at all transparent. 
+**Tip:** Adjust the `opacity` value for the `transparent` class in `style.css`: `0` is completely transparent and `1` is not at all transparent. 
 
 --- code ---
 ---
