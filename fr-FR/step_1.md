@@ -1,4 +1,4 @@
-Use the `transparent` class to make an element partially transparent so you can see the content behind it.
+Utilise la classe 'transparent' pour rendre un élément partiellement transparent afin de voir le contenu derrière lui.
 
 ## --- code ---
 
@@ -8,12 +8,12 @@ line_numbers: false
 --------------------------------------------------------
 
 <div class="transparent">
-    <p>Add text here</p>
+    <p>Ajoute du texte ici</p>
 </div>
 
 \--- /code ---
 
-**Tip:** Adjust the `opacity` value for the `transparent` class in `style.css`: `0` is completely transparent and `1` is not at all transparent.
+**Astuce :** Ajuste la valeur 'opacity' pour la classe 'transparent' dans 'style.css' : '0' est complètement transparent et '1' n'est pas du tout transparent.
 
 ## --- code ---
 
@@ -22,7 +22,7 @@ filename: style.css
 line_numbers: false
 --------------------------------------------------------
 
-/\* Add a transparent effect \*/
+/\* Ajouter un effet de transparence \*/
 
 .transparent {
 opacity: 0.95;
